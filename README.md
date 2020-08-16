@@ -1,1 +1,1 @@
-# Hackkerrank-Problem-Solving
+# hackkerrank-problem-solving
